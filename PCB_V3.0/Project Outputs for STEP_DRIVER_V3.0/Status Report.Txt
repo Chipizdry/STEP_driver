@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [STEP_DRIVER_V3.0.PrjPcb]
+   Generated File[STEP_DRIVER_V3.0-RoundHoles.TXT]
+   Generated File[STEP_DRIVER_V3.0-SlotHoles.TXT]
+   Generated File[STEP_DRIVER_V3.0.LDP]
+   Generated File[STEP_DRIVER_V3.0.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 15:28:59 On 29.01.2024

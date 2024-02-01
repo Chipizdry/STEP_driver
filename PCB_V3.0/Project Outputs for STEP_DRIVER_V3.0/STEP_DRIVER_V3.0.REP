@@ -1,0 +1,862 @@
+*************************************************************
+FileName = STEP_DRIVER_V3.0.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : STEP_DRIVER_V3.0_Copper_Signal_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : STEP_DRIVER_V3.0_Copper_Signal_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D18
+    D19
+    D25
+    D28
+    D29
+    D30
+    D31
+    D34
+    D35
+    D38
+    D41
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+    D124
+    D125
+    D126
+    D127
+    D128
+    D129
+    D130
+    D131
+    D132
+    D133
+    D134
+    D135
+    D136
+    D137
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : STEP_DRIVER_V3.0_Pads_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+    D124
+    D125
+    D126
+    D127
+    D128
+    D129
+    D136
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : STEP_DRIVER_V3.0_Pads_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : STEP_DRIVER_V3.0_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D96
+    D97
+    D100
+    D101
+    D104
+    D105
+    D109
+    D111
+    D112
+    D113
+    D114
+    D118
+    D119
+    D120
+    D121
+    D122
+    D125
+    D126
+    D127
+    D128
+    D138
+    D139
+    D140
+    D141
+    D142
+    D143
+    D144
+    D145
+    D146
+    D147
+    D148
+    D149
+    D150
+    D151
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : STEP_DRIVER_V3.0_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D130
+    D152
+    D153
+    D154
+    D155
+    D156
+    D157
+    D158
+    D159
+    D160
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : STEP_DRIVER_V3.0_Soldermask_Bot.gbr
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D60
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D69
+    D79
+    D83
+    D84
+    D96
+    D97
+    D100
+    D101
+    D104
+    D105
+    D109
+    D111
+    D112
+    D113
+    D114
+    D118
+    D119
+    D120
+    D121
+    D122
+    D125
+    D126
+    D127
+    D128
+    D130
+    D161
+    D162
+    D163
+    D164
+    D165
+    D166
+    D167
+    D168
+    D169
+    D170
+    D171
+    D172
+    D173
+    D174
+    D175
+    D176
+    D177
+    D178
+    D179
+    D180
+    D181
+    D182
+    D183
+    D184
+    D185
+    D186
+    D187
+    D188
+    D189
+    D190
+    D191
+    D192
+    D193
+    D194
+    D195
+    D196
+    D197
+    D198
+    D199
+    D200
+    D201
+    D202
+    D203
+    D204
+    D205
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : STEP_DRIVER_V3.0_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D130
+    D134
+    D152
+    D153
+    D154
+    D156
+    D157
+    D159
+    D160
+    D206
+    D207
+    D208
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : STEP_DRIVER_V3.0_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D20
+    D23
+    D24
+    D209
+    D210
+    D211
+    D212
+    D213
+    D214
+    D215
+    D216
+    D217
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : STEP_DRIVER_V3.0_Soldermask_Top.gbr
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D23
+    D24
+    D60
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D69
+    D79
+    D83
+    D84
+    D130
+    D161
+    D162
+    D163
+    D164
+    D179
+    D180
+    D181
+    D182
+    D183
+    D184
+    D185
+    D186
+    D187
+    D188
+    D189
+    D190
+    D191
+    D192
+    D193
+    D195
+    D196
+    D197
+    D198
+    D199
+    D200
+    D201
+    D202
+    D203
+    D204
+    D205
+    D209
+    D218
+    D219
+    D220
+    D221
+    D222
+    D223
+    D224
+    D225
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : STEP_DRIVER_V3.0_Keep-out.gbr
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Component Outline
+      File : STEP_DRIVER_V3.0_Mechanical_4.gbr
+
+    Adding Layer      : Top Component Outline
+
+
+Used DCodes :
+    D207
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : STEP_DRIVER_V3.0_Mechanical_2.gbr
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D156
+    D158
+    D207
+    D226
+*************************************************************
+
+*************************************************************
+Generating : Top Designator
+      File : STEP_DRIVER_V3.0_Mechanical_14.gbr
+
+    Adding Layer      : Top Designator
+
+
+Used DCodes :
+    D158
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : STEP_DRIVER_V3.0_Mechanical_17.gbr
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D207
+    D227
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : STEP_DRIVER_V3.0_Mechanical_8.gbr
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+    D156
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 10
+      File : STEP_DRIVER_V3.0_Mechanical_10.gbr
+
+    Adding Layer      : Mechanical 10
+
+
+Used DCodes :
+    D156
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : STEP_DRIVER_V3.0_Mechanical_1.gbr
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D130
+    D207
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : STEP_DRIVER_V3.0_Mechanical_3.gbr
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+    D156
+    D207
+    D228
+    D229
+    D230
+*************************************************************
+
+*************************************************************
+Generating : Bottom Component Center
+      File : STEP_DRIVER_V3.0_Mechanical_18.gbr
+
+    Adding Layer      : Bottom Component Center
+
+
+Used DCodes :
+    D207
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : STEP_DRIVER_V3.0_Mechanical_7.gbr
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D156
+    D207
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : STEP_DRIVER_V3.0_Mechanical_15.gbr
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D154
+    D156
+    D207
+    D227
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : STEP_DRIVER_V3.0_Mechanical_13.gbr
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D156
+    D159
+    D207
+    D231
+    D232
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : STEP_DRIVER_V3.0_Mechanical_9.gbr
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D156
+    D227
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : STEP_DRIVER_V3.0_Mechanical_11.gbr
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+    D156
+*************************************************************
+
+*************************************************************
+Generating : Bottom Component Outline
+      File : STEP_DRIVER_V3.0_Mechanical_6.gbr
+
+    Adding Layer      : Bottom Component Outline
+
+
+Used DCodes :
+    D158
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 5
+      File : STEP_DRIVER_V3.0_Mechanical_5.gbr
+
+    Adding Layer      : Mechanical 5
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 12
+      File : STEP_DRIVER_V3.0_Mechanical_12.gbr
+
+    Adding Layer      : Mechanical 12
+
+
+Used DCodes :
+    D156
+    D158
+*************************************************************
+
+*************************************************************
+Generating : Bottom Designator
+      File : STEP_DRIVER_V3.0_Mechanical_16.gbr
+
+    Adding Layer      : Bottom Designator
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : STEP_DRIVER_V3.0_Profile.gbr
+
+
+Used DCodes :
+    D233
+*************************************************************
+
