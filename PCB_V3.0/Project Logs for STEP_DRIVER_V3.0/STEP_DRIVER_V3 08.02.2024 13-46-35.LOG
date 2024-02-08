@@ -1,0 +1,539 @@
+Removed Pin From Net: NetName=GND Pin=R2-2
+Removed Pin From Net: NetName=NetC6_1 Pin=R10-2
+Removed Pin From Net: NetName=NetD23_7 Pin=R83-2
+Removed Pin From Net: NetName=NetD23_1 Pin=R84-2
+Removed Pin From Net: NetName=NetP8_2 Pin=R85-1
+Removed Pin From Net: NetName=NetD23_5 Pin=R85-2
+Removed Pin From Net: NetName=NetP9_2 Pin=R86-1
+Removed Pin From Net: NetName=NetD23_3 Pin=R86-2
+Removed Pin From Net: NetName=NetD23_5 Pin=R87-1
+Removed Pin From Net: NetName=+5V Pin=R87-2
+Removed Pin From Net: NetName=GND Pin=R93-1
+Removed Pin From Net: NetName=NetD23_5 Pin=R93-2
+Removed Pin From Net: NetName=GND Pin=R94-1
+Removed Pin From Net: NetName=NetD23_3 Pin=R94-2
+Removed Pin From Net: NetName=NetP10_2 Pin=R97-1
+Removed Pin From Net: NetName=NetD23_6 Pin=R97-2
+Removed Pin From Net: NetName=NetD23_2 Pin=R98-2
+Removed Pin From Net: NetName=NetD23_6 Pin=R99-1
+Removed Pin From Net: NetName=+5V Pin=R99-2
+Removed Pin From Net: NetName=NetD23_2 Pin=R100-1
+Removed Pin From Net: NetName=+5V Pin=R100-2
+Removed Pin From Net: NetName=NetD23_6 Pin=R101-1
+Removed Pin From Net: NetName=GND Pin=R101-2
+Removed Pin From Net: NetName=NetD23_2 Pin=R102-1
+Removed Pin From Net: NetName=GND Pin=R102-2
+Change Component DesignItemId : Designator=R12 Old DesignItemId=CMP-2001-04908-2 New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R13 Old DesignItemId=CMP-2001-04908-2 New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R17 Old DesignItemId=CMP-2001-04908-2 New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R18 Old DesignItemId=CMP-2001-04908-2 New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R23 Old DesignItemId=CMP-2001-04908-2 New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R24 Old DesignItemId=CMP-2001-04908-2 New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R37 Old DesignItemId=CMP-2001-04908-2 New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R40 Old DesignItemId=CMP-2001-04908-2 New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R46 Old DesignItemId=CMP-2001-04908-2 New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R47 Old DesignItemId=CMP-2001-04908-2 New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R49 Old DesignItemId=CMP-2001-04908-2 New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R50 Old DesignItemId=CMP-2001-04908-2 New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R79 Old DesignItemId=CMP-2001-04908-2 New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R80 Old DesignItemId=CMP-2001-04908-2 New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R81 Old DesignItemId=CMP-2001-04908-2 New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R82 Old DesignItemId=CMP-2001-04908-2 New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R98 Old DesignItemId=CMP-2001-04908-2 New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R116 Old DesignItemId=CMP-2001-04908-2 New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R117 Old DesignItemId=CMP-2001-04908-2 New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R118 Old DesignItemId=CMP-2001-04908-2 New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R127 Old DesignItemId=CMP-2001-04908-2 New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R128 Old DesignItemId=CMP-2001-04908-2 New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R129 Old DesignItemId=CMP-2001-04908-2 New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R130 Old DesignItemId=CMP-2001-04908-2 New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R131 Old DesignItemId=CMP-2001-04908-2 New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R132 Old DesignItemId=CMP-2001-04908-2 New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R133 Old DesignItemId=CMP-2001-04908-2 New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R134 Old DesignItemId=CMP-2001-04908-2 New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R135 Old DesignItemId=CMP-2001-04908-2 New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R136 Old DesignItemId=CMP-2001-04908-2 New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R137 Old DesignItemId=CMP-2001-04908-2 New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R138 Old DesignItemId=CMP-2001-04908-2 New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R139 Old DesignItemId=CMP-2001-04908-2 New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R140 Old DesignItemId=CMP-2001-04908-2 New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R141 Old DesignItemId=CMP-2001-04908-2 New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R142 Old DesignItemId=CMP-2001-04908-2 New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R2 Old DesignItemId=CRCW08050000Z0EA New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R10 Old DesignItemId=CRCW08050000Z0EA New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R15 Old DesignItemId=CRCW08050000Z0EA New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R16 Old DesignItemId=CRCW08050000Z0EA New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R25 Old DesignItemId=CRCW08050000Z0EA New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R26 Old DesignItemId=CRCW08050000Z0EA New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R27 Old DesignItemId=CRCW08050000Z0EA New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R45 Old DesignItemId=CRCW08050000Z0EA New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R48 Old DesignItemId=CRCW08050000Z0EA New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R51 Old DesignItemId=CRCW08050000Z0EA New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R52 Old DesignItemId=CRCW08050000Z0EA New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R60 Old DesignItemId=CRCW08050000Z0EA New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R83 Old DesignItemId=CRCW08050000Z0EA New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R84 Old DesignItemId=CRCW08050000Z0EA New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R85 Old DesignItemId=CRCW08050000Z0EA New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R86 Old DesignItemId=CRCW08050000Z0EA New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R87 Old DesignItemId=CRCW08050000Z0EA New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R88 Old DesignItemId=CRCW08050000Z0EA New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R93 Old DesignItemId=CRCW08050000Z0EA New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R94 Old DesignItemId=CRCW08050000Z0EA New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R97 Old DesignItemId=CRCW08050000Z0EA New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R99 Old DesignItemId=CRCW08050000Z0EA New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R100 Old DesignItemId=CRCW08050000Z0EA New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R101 Old DesignItemId=CRCW08050000Z0EA New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R102 Old DesignItemId=CRCW08050000Z0EA New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R103 Old DesignItemId=CRCW08050000Z0EA New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R104 Old DesignItemId=CRCW08050000Z0EA New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R105 Old DesignItemId=CRCW08050000Z0EA New DesignItemId=RC0805FR-07100KL
+Change Component DesignItemId : Designator=R106 Old DesignItemId=CRCW08050000Z0EA New DesignItemId=RC0805FR-07100KL
+Change Component Footprint: Designator=R12 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R13 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R17 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R18 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R23 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R24 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R37 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R40 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R46 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R47 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R49 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R50 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R79 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R80 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R81 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R82 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R88 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R98 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R116 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R117 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R118 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R127 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R128 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R129 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R130 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R131 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R132 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R133 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R134 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R135 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R136 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R137 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R138 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R139 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R140 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R141 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R142 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R2 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R3 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R4 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R5 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R10 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R15 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R16 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R20 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R22 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R25 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R26 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R27 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R38 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R39 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R45 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R48 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R51 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R52 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R53 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R54 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R55 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R56 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R60 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R83 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R84 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R85 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R86 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R87 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R89 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R90 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R91 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R92 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R93 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R94 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R95 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R96 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R97 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R99 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R100 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R101 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R102 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R103 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R104 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R105 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R106 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Footprint: Designator=R126 Old Footprint=Vishay_CRCW0805-e3_IPC_A New Footprint=Yageo_RC0805_IPC_A
+Change Component Comment : Designator=C43 Old Comment=0.22uF New Comment=2.2uF
+Change Component Comment : Designator=C44 Old Comment=0.22uF New Comment=2.2uF
+Change Component Comment : Designator=R95 Old Comment=2.2K New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R96 Old Comment=2.2K New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R55 Old Comment=2K New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R56 Old Comment=6.6K New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R15 Old Comment=10 New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R16 Old Comment=10 New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R25 Old Comment=10 New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R26 Old Comment=10 New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R27 Old Comment=10 New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R45 Old Comment=10 New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R48 Old Comment=10 New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R51 Old Comment=10 New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R52 Old Comment=10 New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R60 Old Comment=10 New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R103 Old Comment=10 New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R104 Old Comment=10 New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R105 Old Comment=10 New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R106 Old Comment=10 New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R74 Old Comment=10K New Comment=1K
+Change Component Comment : Designator=R120 Old Comment=10K New Comment=1K
+Change Component Comment : Designator=R77 Old Comment=10K New Comment=100K
+Change Component Comment : Designator=R2 Old Comment=10K New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R3 Old Comment=10K New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R4 Old Comment=10K New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R5 Old Comment=10K New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R10 Old Comment=10K New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R12 Old Comment=10k New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R17 Old Comment=10k New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R23 Old Comment=10k New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R37 Old Comment=10k New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R39 Old Comment=10K New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R46 Old Comment=10k New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R49 Old Comment=10k New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R54 Old Comment=10K New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R79 Old Comment=10K New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R81 Old Comment=10k New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R91 Old Comment=10K New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R92 Old Comment=10K New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R116 Old Comment=10K New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R117 Old Comment=10K New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R118 Old Comment=10K New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R126 Old Comment=10K New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R127 Old Comment=10K New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R128 Old Comment=10K New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R129 Old Comment=10K New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R130 Old Comment=10K New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R131 Old Comment=10K New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R132 Old Comment=10K New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R133 Old Comment=10K New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R134 Old Comment=10K New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R135 Old Comment=10K New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R136 Old Comment=10K New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R137 Old Comment=10K New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R138 Old Comment=10K New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R139 Old Comment=10K New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R140 Old Comment=10K New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R141 Old Comment=10K New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R142 Old Comment=10K New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R20 Old Comment=33K New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R22 Old Comment=33K New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R38 Old Comment=33K New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R53 Old Comment=47K New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R85 Old Comment=47k New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R86 Old Comment=47k New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R87 Old Comment=47k New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R88 Old Comment=47k New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R93 Old Comment=47k New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R94 Old Comment=47k New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R97 Old Comment=47k New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R99 Old Comment=47k New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R100 Old Comment=47k New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R101 Old Comment=47k New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R102 Old Comment=47k New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R83 Old Comment=100k New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R84 Old Comment=100k New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R89 Old Comment=220 New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R90 Old Comment=220 New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R13 Old Comment=CRCW080510K0FKEA New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R18 Old Comment=CRCW080510K0FKEA New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R24 Old Comment=CRCW080510K0FKEA New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R40 Old Comment=CRCW080510K0FKEA New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R47 Old Comment=CRCW080510K0FKEA New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R50 Old Comment=CRCW080510K0FKEA New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R80 Old Comment=CRCW080510K0FKEA New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R82 Old Comment=CRCW080510K0FKEA New Comment=RC0805FR-07100KL
+Change Component Comment : Designator=R98 Old Comment=CRCW080510K0FKEA New Comment=RC0805FR-07100KL
+Change Component Description : Designator=R95 Old Description=2.2K New Description=
+Change Component Description : Designator=R96 Old Description=2.2K New Description=
+Change Component Description : Designator=R55 Old Description=2K New Description=
+Change Component Description : Designator=R56 Old Description=6.6K New Description=
+Change Component Description : Designator=R15 Old Description=10 New Description=
+Change Component Description : Designator=R16 Old Description=10 New Description=
+Change Component Description : Designator=R25 Old Description=10 New Description=
+Change Component Description : Designator=R26 Old Description=10 New Description=
+Change Component Description : Designator=R27 Old Description=10 New Description=
+Change Component Description : Designator=R45 Old Description=10 New Description=
+Change Component Description : Designator=R48 Old Description=10 New Description=
+Change Component Description : Designator=R51 Old Description=10 New Description=
+Change Component Description : Designator=R52 Old Description=10 New Description=
+Change Component Description : Designator=R60 Old Description=10 New Description=
+Change Component Description : Designator=R103 Old Description=10 New Description=
+Change Component Description : Designator=R104 Old Description=10 New Description=
+Change Component Description : Designator=R105 Old Description=10 New Description=
+Change Component Description : Designator=R106 Old Description=10 New Description=
+Change Component Description : Designator=R74 Old Description=10K New Description=1K
+Change Component Description : Designator=R120 Old Description=10K New Description=1K
+Change Component Description : Designator=R77 Old Description=10K New Description=100K
+Change Component Description : Designator=R3 Old Description=10K New Description=
+Change Component Description : Designator=R4 Old Description=10K New Description=
+Change Component Description : Designator=R5 Old Description=10K New Description=
+Change Component Description : Designator=R39 Old Description=10K New Description=
+Change Component Description : Designator=R53 Old Description=10K New Description=
+Change Component Description : Designator=R54 Old Description=10K New Description=
+Change Component Description : Designator=R91 Old Description=10K New Description=
+Change Component Description : Designator=R92 Old Description=10K New Description=
+Change Component Description : Designator=R126 Old Description=10K New Description=
+Change Component Description : Designator=R20 Old Description=33K New Description=
+Change Component Description : Designator=R22 Old Description=33K New Description=
+Change Component Description : Designator=R38 Old Description=33K New Description=
+Change Component Description : Designator=R85 Old Description=47k New Description=
+Change Component Description : Designator=R86 Old Description=47k New Description=
+Change Component Description : Designator=R87 Old Description=47k New Description=
+Change Component Description : Designator=R88 Old Description=47k New Description=
+Change Component Description : Designator=R93 Old Description=47k New Description=
+Change Component Description : Designator=R94 Old Description=47k New Description=
+Change Component Description : Designator=R97 Old Description=47k New Description=
+Change Component Description : Designator=R99 Old Description=47k New Description=
+Change Component Description : Designator=R100 Old Description=47k New Description=
+Change Component Description : Designator=R101 Old Description=47k New Description=
+Change Component Description : Designator=R102 Old Description=47k New Description=
+Change Component Description : Designator=R83 Old Description=100k New Description=
+Change Component Description : Designator=R84 Old Description=100k New Description=
+Change Component Description : Designator=R89 Old Description=220 New Description=
+Change Component Description : Designator=R90 Old Description=220 New Description=
+Change Component Description : Designator=C43 Old Description=CAP CER 0.22UF 50V X7R 0805 New Description=CAP CER  2.2UF 50V X7R 0805
+Change Component Description : Designator=C44 Old Description=CAP CER 0.22UF 50V X7R 0805 New Description=CAP CER 2.2UF 50V X7R 0805
+Change Component Description : Designator=R12 Old Description=RES Thick Film, 10k?, 1%, 0.125W, 100ppm/°C, 0805 New Description=
+Change Component Description : Designator=R13 Old Description=RES Thick Film, 10k?, 1%, 0.125W, 100ppm/°C, 0805 New Description=
+Change Component Description : Designator=R17 Old Description=RES Thick Film, 10k?, 1%, 0.125W, 100ppm/°C, 0805 New Description=
+Change Component Description : Designator=R18 Old Description=RES Thick Film, 10k?, 1%, 0.125W, 100ppm/°C, 0805 New Description=
+Change Component Description : Designator=R23 Old Description=RES Thick Film, 10k?, 1%, 0.125W, 100ppm/°C, 0805 New Description=
+Change Component Description : Designator=R24 Old Description=RES Thick Film, 10k?, 1%, 0.125W, 100ppm/°C, 0805 New Description=
+Change Component Description : Designator=R37 Old Description=RES Thick Film, 10k?, 1%, 0.125W, 100ppm/°C, 0805 New Description=
+Change Component Description : Designator=R40 Old Description=RES Thick Film, 10k?, 1%, 0.125W, 100ppm/°C, 0805 New Description=
+Change Component Description : Designator=R46 Old Description=RES Thick Film, 10k?, 1%, 0.125W, 100ppm/°C, 0805 New Description=
+Change Component Description : Designator=R47 Old Description=RES Thick Film, 10k?, 1%, 0.125W, 100ppm/°C, 0805 New Description=
+Change Component Description : Designator=R49 Old Description=RES Thick Film, 10k?, 1%, 0.125W, 100ppm/°C, 0805 New Description=
+Change Component Description : Designator=R50 Old Description=RES Thick Film, 10k?, 1%, 0.125W, 100ppm/°C, 0805 New Description=
+Change Component Description : Designator=R79 Old Description=RES Thick Film, 10k?, 1%, 0.125W, 100ppm/°C, 0805 New Description=
+Change Component Description : Designator=R80 Old Description=RES Thick Film, 10k?, 1%, 0.125W, 100ppm/°C, 0805 New Description=
+Change Component Description : Designator=R81 Old Description=RES Thick Film, 10k?, 1%, 0.125W, 100ppm/°C, 0805 New Description=
+Change Component Description : Designator=R82 Old Description=RES Thick Film, 10k?, 1%, 0.125W, 100ppm/°C, 0805 New Description=
+Change Component Description : Designator=R98 Old Description=RES Thick Film, 10k?, 1%, 0.125W, 100ppm/°C, 0805 New Description=
+Change Component Description : Designator=R116 Old Description=RES Thick Film, 10k?, 1%, 0.125W, 100ppm/°C, 0805 New Description=
+Change Component Description : Designator=R117 Old Description=RES Thick Film, 10k?, 1%, 0.125W, 100ppm/°C, 0805 New Description=
+Change Component Description : Designator=R118 Old Description=RES Thick Film, 10k?, 1%, 0.125W, 100ppm/°C, 0805 New Description=
+Change Component Description : Designator=R127 Old Description=RES Thick Film, 10k?, 1%, 0.125W, 100ppm/°C, 0805 New Description=
+Change Component Description : Designator=R128 Old Description=RES Thick Film, 10k?, 1%, 0.125W, 100ppm/°C, 0805 New Description=
+Change Component Description : Designator=R129 Old Description=RES Thick Film, 10k?, 1%, 0.125W, 100ppm/°C, 0805 New Description=
+Change Component Description : Designator=R130 Old Description=RES Thick Film, 10k?, 1%, 0.125W, 100ppm/°C, 0805 New Description=
+Change Component Description : Designator=R131 Old Description=RES Thick Film, 10k?, 1%, 0.125W, 100ppm/°C, 0805 New Description=
+Change Component Description : Designator=R132 Old Description=RES Thick Film, 10k?, 1%, 0.125W, 100ppm/°C, 0805 New Description=
+Change Component Description : Designator=R133 Old Description=RES Thick Film, 10k?, 1%, 0.125W, 100ppm/°C, 0805 New Description=
+Change Component Description : Designator=R134 Old Description=RES Thick Film, 10k?, 1%, 0.125W, 100ppm/°C, 0805 New Description=
+Change Component Description : Designator=R135 Old Description=RES Thick Film, 10k?, 1%, 0.125W, 100ppm/°C, 0805 New Description=
+Change Component Description : Designator=R136 Old Description=RES Thick Film, 10k?, 1%, 0.125W, 100ppm/°C, 0805 New Description=
+Change Component Description : Designator=R137 Old Description=RES Thick Film, 10k?, 1%, 0.125W, 100ppm/°C, 0805 New Description=
+Change Component Description : Designator=R138 Old Description=RES Thick Film, 10k?, 1%, 0.125W, 100ppm/°C, 0805 New Description=
+Change Component Description : Designator=R139 Old Description=RES Thick Film, 10k?, 1%, 0.125W, 100ppm/°C, 0805 New Description=
+Change Component Description : Designator=R140 Old Description=RES Thick Film, 10k?, 1%, 0.125W, 100ppm/°C, 0805 New Description=
+Change Component Description : Designator=R141 Old Description=RES Thick Film, 10k?, 1%, 0.125W, 100ppm/°C, 0805 New Description=
+Change Component Description : Designator=R142 Old Description=RES Thick Film, 10k?, 1%, 0.125W, 100ppm/°C, 0805 New Description=
+Change Component Library : Designator=R12 Old Library=Altium Content Vault New Library=reees.IntLib
+Change Component Library : Designator=R13 Old Library=Altium Content Vault New Library=reees.IntLib
+Change Component Library : Designator=R17 Old Library=Altium Content Vault New Library=reees.IntLib
+Change Component Library : Designator=R18 Old Library=Altium Content Vault New Library=reees.IntLib
+Change Component Library : Designator=R23 Old Library=Altium Content Vault New Library=reees.IntLib
+Change Component Library : Designator=R24 Old Library=Altium Content Vault New Library=reees.IntLib
+Change Component Library : Designator=R37 Old Library=Altium Content Vault New Library=reees.IntLib
+Change Component Library : Designator=R40 Old Library=Altium Content Vault New Library=reees.IntLib
+Change Component Library : Designator=R46 Old Library=Altium Content Vault New Library=reees.IntLib
+Change Component Library : Designator=R47 Old Library=Altium Content Vault New Library=reees.IntLib
+Change Component Library : Designator=R49 Old Library=Altium Content Vault New Library=reees.IntLib
+Change Component Library : Designator=R50 Old Library=Altium Content Vault New Library=reees.IntLib
+Change Component Library : Designator=R79 Old Library=Altium Content Vault New Library=reees.IntLib
+Change Component Library : Designator=R80 Old Library=Altium Content Vault New Library=reees.IntLib
+Change Component Library : Designator=R81 Old Library=Altium Content Vault New Library=reees.IntLib
+Change Component Library : Designator=R82 Old Library=Altium Content Vault New Library=reees.IntLib
+Change Component Library : Designator=R127 Old Library=Altium Content Vault New Library=reees.IntLib
+Change Component Library : Designator=R128 Old Library=Altium Content Vault New Library=reees.IntLib
+Change Component Library : Designator=R129 Old Library=Altium Content Vault New Library=reees.IntLib
+Change Component Library : Designator=R130 Old Library=Altium Content Vault New Library=reees.IntLib
+Change Component Library : Designator=R131 Old Library=Altium Content Vault New Library=reees.IntLib
+Change Component Library : Designator=R132 Old Library=Altium Content Vault New Library=reees.IntLib
+Change Component Library : Designator=R133 Old Library=Altium Content Vault New Library=reees.IntLib
+Change Component Library : Designator=R134 Old Library=Altium Content Vault New Library=reees.IntLib
+Change Component Library : Designator=R135 Old Library=Altium Content Vault New Library=reees.IntLib
+Change Component Library : Designator=R136 Old Library=Altium Content Vault New Library=reees.IntLib
+Change Component Library : Designator=R137 Old Library=Altium Content Vault New Library=reees.IntLib
+Change Component Library : Designator=R138 Old Library=Altium Content Vault New Library=reees.IntLib
+Change Component Library : Designator=R139 Old Library=Altium Content Vault New Library=reees.IntLib
+Change Component Library : Designator=R140 Old Library=Altium Content Vault New Library=reees.IntLib
+Change Component Library : Designator=R141 Old Library=Altium Content Vault New Library=reees.IntLib
+Change Component Library : Designator=R142 Old Library=Altium Content Vault New Library=reees.IntLib
+Change Component Library : Designator=R2 Old Library=Pasive_components.IntLib New Library=reees.IntLib
+Change Component Library : Designator=R10 Old Library=Pasive_components.IntLib New Library=reees.IntLib
+Change Component Library : Designator=R98 Old Library=Pasive_components.IntLib New Library=reees.IntLib
+Change Component Library : Designator=R116 Old Library=Pasive_components.IntLib New Library=reees.IntLib
+Change Component Library : Designator=R117 Old Library=Pasive_components.IntLib New Library=reees.IntLib
+Change Component Library : Designator=R118 Old Library=Pasive_components.IntLib New Library=reees.IntLib
+Change Component Library : Designator=R15 Old Library=Res_Vishay_CRCW08050000Z0EA_eec.SchLib New Library=reees.IntLib
+Change Component Library : Designator=R16 Old Library=Res_Vishay_CRCW08050000Z0EA_eec.SchLib New Library=reees.IntLib
+Change Component Library : Designator=R25 Old Library=Res_Vishay_CRCW08050000Z0EA_eec.SchLib New Library=reees.IntLib
+Change Component Library : Designator=R26 Old Library=Res_Vishay_CRCW08050000Z0EA_eec.SchLib New Library=reees.IntLib
+Change Component Library : Designator=R27 Old Library=Res_Vishay_CRCW08050000Z0EA_eec.SchLib New Library=reees.IntLib
+Change Component Library : Designator=R45 Old Library=Res_Vishay_CRCW08050000Z0EA_eec.SchLib New Library=reees.IntLib
+Change Component Library : Designator=R48 Old Library=Res_Vishay_CRCW08050000Z0EA_eec.SchLib New Library=reees.IntLib
+Change Component Library : Designator=R51 Old Library=Res_Vishay_CRCW08050000Z0EA_eec.SchLib New Library=reees.IntLib
+Change Component Library : Designator=R52 Old Library=Res_Vishay_CRCW08050000Z0EA_eec.SchLib New Library=reees.IntLib
+Change Component Library : Designator=R60 Old Library=Res_Vishay_CRCW08050000Z0EA_eec.SchLib New Library=reees.IntLib
+Change Component Library : Designator=R83 Old Library=Res_Vishay_CRCW08050000Z0EA_eec.SchLib New Library=reees.IntLib
+Change Component Library : Designator=R84 Old Library=Res_Vishay_CRCW08050000Z0EA_eec.SchLib New Library=reees.IntLib
+Change Component Library : Designator=R85 Old Library=Res_Vishay_CRCW08050000Z0EA_eec.SchLib New Library=reees.IntLib
+Change Component Library : Designator=R86 Old Library=Res_Vishay_CRCW08050000Z0EA_eec.SchLib New Library=reees.IntLib
+Change Component Library : Designator=R87 Old Library=Res_Vishay_CRCW08050000Z0EA_eec.SchLib New Library=reees.IntLib
+Change Component Library : Designator=R88 Old Library=Res_Vishay_CRCW08050000Z0EA_eec.SchLib New Library=reees.IntLib
+Change Component Library : Designator=R93 Old Library=Res_Vishay_CRCW08050000Z0EA_eec.SchLib New Library=reees.IntLib
+Change Component Library : Designator=R94 Old Library=Res_Vishay_CRCW08050000Z0EA_eec.SchLib New Library=reees.IntLib
+Change Component Library : Designator=R97 Old Library=Res_Vishay_CRCW08050000Z0EA_eec.SchLib New Library=reees.IntLib
+Change Component Library : Designator=R99 Old Library=Res_Vishay_CRCW08050000Z0EA_eec.SchLib New Library=reees.IntLib
+Change Component Library : Designator=R100 Old Library=Res_Vishay_CRCW08050000Z0EA_eec.SchLib New Library=reees.IntLib
+Change Component Library : Designator=R101 Old Library=Res_Vishay_CRCW08050000Z0EA_eec.SchLib New Library=reees.IntLib
+Change Component Library : Designator=R102 Old Library=Res_Vishay_CRCW08050000Z0EA_eec.SchLib New Library=reees.IntLib
+Change Component Library : Designator=R103 Old Library=Res_Vishay_CRCW08050000Z0EA_eec.SchLib New Library=reees.IntLib
+Change Component Library : Designator=R104 Old Library=Res_Vishay_CRCW08050000Z0EA_eec.SchLib New Library=reees.IntLib
+Change Component Library : Designator=R105 Old Library=Res_Vishay_CRCW08050000Z0EA_eec.SchLib New Library=reees.IntLib
+Change Component Library : Designator=R106 Old Library=Res_Vishay_CRCW08050000Z0EA_eec.SchLib New Library=reees.IntLib
+Change Component Library : Designator=R28 Old Library=Res_Vishay_CRCW08050000Z0EA_eec.SchLib New Library=Resistor.IntLib
+Change Component Library : Designator=R3 Old Library=Res_Yageo_RC0805FR-07100KL_eec.SchLib New Library=reees.IntLib
+Change Component Library : Designator=R4 Old Library=Res_Yageo_RC0805FR-07100KL_eec.SchLib New Library=reees.IntLib
+Change Component Library : Designator=R5 Old Library=Res_Yageo_RC0805FR-07100KL_eec.SchLib New Library=reees.IntLib
+Change Component Library : Designator=R20 Old Library=Res_Yageo_RC0805FR-07100KL_eec.SchLib New Library=reees.IntLib
+Change Component Library : Designator=R22 Old Library=Res_Yageo_RC0805FR-07100KL_eec.SchLib New Library=reees.IntLib
+Change Component Library : Designator=R38 Old Library=Res_Yageo_RC0805FR-07100KL_eec.SchLib New Library=reees.IntLib
+Change Component Library : Designator=R39 Old Library=Res_Yageo_RC0805FR-07100KL_eec.SchLib New Library=reees.IntLib
+Change Component Library : Designator=R53 Old Library=Res_Yageo_RC0805FR-07100KL_eec.SchLib New Library=reees.IntLib
+Change Component Library : Designator=R54 Old Library=Res_Yageo_RC0805FR-07100KL_eec.SchLib New Library=reees.IntLib
+Change Component Library : Designator=R55 Old Library=Res_Yageo_RC0805FR-07100KL_eec.SchLib New Library=reees.IntLib
+Change Component Library : Designator=R56 Old Library=Res_Yageo_RC0805FR-07100KL_eec.SchLib New Library=reees.IntLib
+Change Component Library : Designator=R89 Old Library=Res_Yageo_RC0805FR-07100KL_eec.SchLib New Library=reees.IntLib
+Change Component Library : Designator=R90 Old Library=Res_Yageo_RC0805FR-07100KL_eec.SchLib New Library=reees.IntLib
+Change Component Library : Designator=R91 Old Library=Res_Yageo_RC0805FR-07100KL_eec.SchLib New Library=reees.IntLib
+Change Component Library : Designator=R92 Old Library=Res_Yageo_RC0805FR-07100KL_eec.SchLib New Library=reees.IntLib
+Change Component Library : Designator=R95 Old Library=Res_Yageo_RC0805FR-07100KL_eec.SchLib New Library=reees.IntLib
+Change Component Library : Designator=R96 Old Library=Res_Yageo_RC0805FR-07100KL_eec.SchLib New Library=reees.IntLib
+Change Component Library : Designator=R126 Old Library=Res_Yageo_RC0805FR-07100KL_eec.SchLib New Library=reees.IntLib
+Change Managed Component Library Link : Designator=R12 Old VaultGUID= New VaultGUID= Old ItemGUID=18A6103D-484F-4EFD-9A86-4EC2EBA62D2F New ItemGUID= Old RevisionGUID=BB5FF57E-59B3-460F-9D81-DEC85E8540F4 New RevisionGUID=
+Change Managed Component Library Link : Designator=R13 Old VaultGUID= New VaultGUID= Old ItemGUID=18A6103D-484F-4EFD-9A86-4EC2EBA62D2F New ItemGUID= Old RevisionGUID=BB5FF57E-59B3-460F-9D81-DEC85E8540F4 New RevisionGUID=
+Change Managed Component Library Link : Designator=R17 Old VaultGUID= New VaultGUID= Old ItemGUID=18A6103D-484F-4EFD-9A86-4EC2EBA62D2F New ItemGUID= Old RevisionGUID=BB5FF57E-59B3-460F-9D81-DEC85E8540F4 New RevisionGUID=
+Change Managed Component Library Link : Designator=R18 Old VaultGUID= New VaultGUID= Old ItemGUID=18A6103D-484F-4EFD-9A86-4EC2EBA62D2F New ItemGUID= Old RevisionGUID=BB5FF57E-59B3-460F-9D81-DEC85E8540F4 New RevisionGUID=
+Change Managed Component Library Link : Designator=R23 Old VaultGUID= New VaultGUID= Old ItemGUID=18A6103D-484F-4EFD-9A86-4EC2EBA62D2F New ItemGUID= Old RevisionGUID=BB5FF57E-59B3-460F-9D81-DEC85E8540F4 New RevisionGUID=
+Change Managed Component Library Link : Designator=R24 Old VaultGUID= New VaultGUID= Old ItemGUID=18A6103D-484F-4EFD-9A86-4EC2EBA62D2F New ItemGUID= Old RevisionGUID=BB5FF57E-59B3-460F-9D81-DEC85E8540F4 New RevisionGUID=
+Change Managed Component Library Link : Designator=R37 Old VaultGUID= New VaultGUID= Old ItemGUID=18A6103D-484F-4EFD-9A86-4EC2EBA62D2F New ItemGUID= Old RevisionGUID=BB5FF57E-59B3-460F-9D81-DEC85E8540F4 New RevisionGUID=
+Change Managed Component Library Link : Designator=R40 Old VaultGUID= New VaultGUID= Old ItemGUID=18A6103D-484F-4EFD-9A86-4EC2EBA62D2F New ItemGUID= Old RevisionGUID=BB5FF57E-59B3-460F-9D81-DEC85E8540F4 New RevisionGUID=
+Change Managed Component Library Link : Designator=R46 Old VaultGUID= New VaultGUID= Old ItemGUID=18A6103D-484F-4EFD-9A86-4EC2EBA62D2F New ItemGUID= Old RevisionGUID=BB5FF57E-59B3-460F-9D81-DEC85E8540F4 New RevisionGUID=
+Change Managed Component Library Link : Designator=R47 Old VaultGUID= New VaultGUID= Old ItemGUID=18A6103D-484F-4EFD-9A86-4EC2EBA62D2F New ItemGUID= Old RevisionGUID=BB5FF57E-59B3-460F-9D81-DEC85E8540F4 New RevisionGUID=
+Change Managed Component Library Link : Designator=R49 Old VaultGUID= New VaultGUID= Old ItemGUID=18A6103D-484F-4EFD-9A86-4EC2EBA62D2F New ItemGUID= Old RevisionGUID=BB5FF57E-59B3-460F-9D81-DEC85E8540F4 New RevisionGUID=
+Change Managed Component Library Link : Designator=R50 Old VaultGUID= New VaultGUID= Old ItemGUID=18A6103D-484F-4EFD-9A86-4EC2EBA62D2F New ItemGUID= Old RevisionGUID=BB5FF57E-59B3-460F-9D81-DEC85E8540F4 New RevisionGUID=
+Change Managed Component Library Link : Designator=R79 Old VaultGUID= New VaultGUID= Old ItemGUID=18A6103D-484F-4EFD-9A86-4EC2EBA62D2F New ItemGUID= Old RevisionGUID=BB5FF57E-59B3-460F-9D81-DEC85E8540F4 New RevisionGUID=
+Change Managed Component Library Link : Designator=R80 Old VaultGUID= New VaultGUID= Old ItemGUID=18A6103D-484F-4EFD-9A86-4EC2EBA62D2F New ItemGUID= Old RevisionGUID=BB5FF57E-59B3-460F-9D81-DEC85E8540F4 New RevisionGUID=
+Change Managed Component Library Link : Designator=R81 Old VaultGUID= New VaultGUID= Old ItemGUID=18A6103D-484F-4EFD-9A86-4EC2EBA62D2F New ItemGUID= Old RevisionGUID=BB5FF57E-59B3-460F-9D81-DEC85E8540F4 New RevisionGUID=
+Change Managed Component Library Link : Designator=R82 Old VaultGUID= New VaultGUID= Old ItemGUID=18A6103D-484F-4EFD-9A86-4EC2EBA62D2F New ItemGUID= Old RevisionGUID=BB5FF57E-59B3-460F-9D81-DEC85E8540F4 New RevisionGUID=
+Change Managed Component Library Link : Designator=R98 Old VaultGUID= New VaultGUID= Old ItemGUID=18A6103D-484F-4EFD-9A86-4EC2EBA62D2F New ItemGUID= Old RevisionGUID=BB5FF57E-59B3-460F-9D81-DEC85E8540F4 New RevisionGUID=
+Change Managed Component Library Link : Designator=R116 Old VaultGUID= New VaultGUID= Old ItemGUID=18A6103D-484F-4EFD-9A86-4EC2EBA62D2F New ItemGUID= Old RevisionGUID=BB5FF57E-59B3-460F-9D81-DEC85E8540F4 New RevisionGUID=
+Change Managed Component Library Link : Designator=R117 Old VaultGUID= New VaultGUID= Old ItemGUID=18A6103D-484F-4EFD-9A86-4EC2EBA62D2F New ItemGUID= Old RevisionGUID=BB5FF57E-59B3-460F-9D81-DEC85E8540F4 New RevisionGUID=
+Change Managed Component Library Link : Designator=R118 Old VaultGUID= New VaultGUID= Old ItemGUID=18A6103D-484F-4EFD-9A86-4EC2EBA62D2F New ItemGUID= Old RevisionGUID=BB5FF57E-59B3-460F-9D81-DEC85E8540F4 New RevisionGUID=
+Change Managed Component Library Link : Designator=R127 Old VaultGUID= New VaultGUID= Old ItemGUID=18A6103D-484F-4EFD-9A86-4EC2EBA62D2F New ItemGUID= Old RevisionGUID=BB5FF57E-59B3-460F-9D81-DEC85E8540F4 New RevisionGUID=
+Change Managed Component Library Link : Designator=R128 Old VaultGUID= New VaultGUID= Old ItemGUID=18A6103D-484F-4EFD-9A86-4EC2EBA62D2F New ItemGUID= Old RevisionGUID=BB5FF57E-59B3-460F-9D81-DEC85E8540F4 New RevisionGUID=
+Change Managed Component Library Link : Designator=R129 Old VaultGUID= New VaultGUID= Old ItemGUID=18A6103D-484F-4EFD-9A86-4EC2EBA62D2F New ItemGUID= Old RevisionGUID=BB5FF57E-59B3-460F-9D81-DEC85E8540F4 New RevisionGUID=
+Change Managed Component Library Link : Designator=R130 Old VaultGUID= New VaultGUID= Old ItemGUID=18A6103D-484F-4EFD-9A86-4EC2EBA62D2F New ItemGUID= Old RevisionGUID=BB5FF57E-59B3-460F-9D81-DEC85E8540F4 New RevisionGUID=
+Change Managed Component Library Link : Designator=R131 Old VaultGUID= New VaultGUID= Old ItemGUID=18A6103D-484F-4EFD-9A86-4EC2EBA62D2F New ItemGUID= Old RevisionGUID=BB5FF57E-59B3-460F-9D81-DEC85E8540F4 New RevisionGUID=
+Change Managed Component Library Link : Designator=R132 Old VaultGUID= New VaultGUID= Old ItemGUID=18A6103D-484F-4EFD-9A86-4EC2EBA62D2F New ItemGUID= Old RevisionGUID=BB5FF57E-59B3-460F-9D81-DEC85E8540F4 New RevisionGUID=
+Change Managed Component Library Link : Designator=R133 Old VaultGUID= New VaultGUID= Old ItemGUID=18A6103D-484F-4EFD-9A86-4EC2EBA62D2F New ItemGUID= Old RevisionGUID=BB5FF57E-59B3-460F-9D81-DEC85E8540F4 New RevisionGUID=
+Change Managed Component Library Link : Designator=R134 Old VaultGUID= New VaultGUID= Old ItemGUID=18A6103D-484F-4EFD-9A86-4EC2EBA62D2F New ItemGUID= Old RevisionGUID=BB5FF57E-59B3-460F-9D81-DEC85E8540F4 New RevisionGUID=
+Change Managed Component Library Link : Designator=R135 Old VaultGUID= New VaultGUID= Old ItemGUID=18A6103D-484F-4EFD-9A86-4EC2EBA62D2F New ItemGUID= Old RevisionGUID=BB5FF57E-59B3-460F-9D81-DEC85E8540F4 New RevisionGUID=
+Change Managed Component Library Link : Designator=R136 Old VaultGUID= New VaultGUID= Old ItemGUID=18A6103D-484F-4EFD-9A86-4EC2EBA62D2F New ItemGUID= Old RevisionGUID=BB5FF57E-59B3-460F-9D81-DEC85E8540F4 New RevisionGUID=
+Change Managed Component Library Link : Designator=R137 Old VaultGUID= New VaultGUID= Old ItemGUID=18A6103D-484F-4EFD-9A86-4EC2EBA62D2F New ItemGUID= Old RevisionGUID=BB5FF57E-59B3-460F-9D81-DEC85E8540F4 New RevisionGUID=
+Change Managed Component Library Link : Designator=R138 Old VaultGUID= New VaultGUID= Old ItemGUID=18A6103D-484F-4EFD-9A86-4EC2EBA62D2F New ItemGUID= Old RevisionGUID=BB5FF57E-59B3-460F-9D81-DEC85E8540F4 New RevisionGUID=
+Change Managed Component Library Link : Designator=R139 Old VaultGUID= New VaultGUID= Old ItemGUID=18A6103D-484F-4EFD-9A86-4EC2EBA62D2F New ItemGUID= Old RevisionGUID=BB5FF57E-59B3-460F-9D81-DEC85E8540F4 New RevisionGUID=
+Change Managed Component Library Link : Designator=R140 Old VaultGUID= New VaultGUID= Old ItemGUID=18A6103D-484F-4EFD-9A86-4EC2EBA62D2F New ItemGUID= Old RevisionGUID=BB5FF57E-59B3-460F-9D81-DEC85E8540F4 New RevisionGUID=
+Change Managed Component Library Link : Designator=R141 Old VaultGUID= New VaultGUID= Old ItemGUID=18A6103D-484F-4EFD-9A86-4EC2EBA62D2F New ItemGUID= Old RevisionGUID=BB5FF57E-59B3-460F-9D81-DEC85E8540F4 New RevisionGUID=
+Change Managed Component Library Link : Designator=R142 Old VaultGUID= New VaultGUID= Old ItemGUID=18A6103D-484F-4EFD-9A86-4EC2EBA62D2F New ItemGUID= Old RevisionGUID=BB5FF57E-59B3-460F-9D81-DEC85E8540F4 New RevisionGUID=
+Change component parameters: Designator = "R85" ("R85"); Footprint = "Vishay_CRCW0805-e3_IPC_A"; UniqueID = "\CCGYXOFI" ("\CCGYXOFI")
+Change component parameters: Designator = "R86" ("R86"); Footprint = "Vishay_CRCW0805-e3_IPC_A"; UniqueID = "\DLLSFLTB" ("\DLLSFLTB")
+Change component parameters: Designator = "R87" ("R87"); Footprint = "Vishay_CRCW0805-e3_IPC_A"; UniqueID = "\CWNQBLTJ" ("\CWNQBLTJ")
+Change component parameters: Designator = "R88" ("R88"); Footprint = "FP-CRCW0805-e3-IPC_A"; UniqueID = "\AGVBQYWQ" ("\AGVBQYWQ")
+Change component parameters: Designator = "R93" ("R93"); Footprint = "Vishay_CRCW0805-e3_IPC_A"; UniqueID = "\BUHOPDZV" ("\BUHOPDZV")
+Change component parameters: Designator = "R94" ("R94"); Footprint = "Vishay_CRCW0805-e3_IPC_A"; UniqueID = "\AVZPHJDV" ("\AVZPHJDV")
+Change component parameters: Designator = "R97" ("R97"); Footprint = "Vishay_CRCW0805-e3_IPC_A"; UniqueID = "\JYNTPNPZ" ("\JYNTPNPZ")
+Change component parameters: Designator = "R99" ("R99"); Footprint = "Vishay_CRCW0805-e3_IPC_A"; UniqueID = "\XPEOYRMA" ("\XPEOYRMA")
+Change component parameters: Designator = "R100" ("R100"); Footprint = "Vishay_CRCW0805-e3_IPC_A"; UniqueID = "\YQPXQDGK" ("\YQPXQDGK")
+Change component parameters: Designator = "R101" ("R101"); Footprint = "Vishay_CRCW0805-e3_IPC_A"; UniqueID = "\GBQNGVZR" ("\GBQNGVZR")
+Change component parameters: Designator = "R102" ("R102"); Footprint = "Vishay_CRCW0805-e3_IPC_A"; UniqueID = "\QWXWGEOF" ("\QWXWGEOF")
+Change component parameters: Designator = "R15" ("R15"); Footprint = "Vishay_CRCW0805-e3_IPC_A"; UniqueID = "\XIAZEDKE" ("\XIAZEDKE")
+Change component parameters: Designator = "R16" ("R16"); Footprint = "Vishay_CRCW0805-e3_IPC_A"; UniqueID = "\DRBWJPPJ" ("\DRBWJPPJ")
+Change component parameters: Designator = "R25" ("R25"); Footprint = "Vishay_CRCW0805-e3_IPC_A"; UniqueID = "\TDLQLZVW" ("\TDLQLZVW")
+Change component parameters: Designator = "R26" ("R26"); Footprint = "Vishay_CRCW0805-e3_IPC_A"; UniqueID = "\PAZHUEEB" ("\PAZHUEEB")
+Change component parameters: Designator = "R27" ("R27"); Footprint = "Vishay_CRCW0805-e3_IPC_A"; UniqueID = "\RHLSTUEB" ("\RHLSTUEB")
+Change component parameters: Designator = "R45" ("R45"); Footprint = "Vishay_CRCW0805-e3_IPC_A"; UniqueID = "\RUYMNFOA" ("\RUYMNFOA")
+Change component parameters: Designator = "R48" ("R48"); Footprint = "Vishay_CRCW0805-e3_IPC_A"; UniqueID = "\WJTEISYW" ("\WJTEISYW")
+Change component parameters: Designator = "R51" ("R51"); Footprint = "Vishay_CRCW0805-e3_IPC_A"; UniqueID = "\UXVJRRXM" ("\UXVJRRXM")
+Change component parameters: Designator = "R52" ("R52"); Footprint = "Vishay_CRCW0805-e3_IPC_A"; UniqueID = "\JROBYAXD" ("\JROBYAXD")
+Change component parameters: Designator = "R60" ("R60"); Footprint = "Vishay_CRCW0805-e3_IPC_A"; UniqueID = "\RWTZDPCE" ("\RWTZDPCE")
+Change component parameters: Designator = "R83" ("R83"); Footprint = "Vishay_CRCW0805-e3_IPC_A"; UniqueID = "\TJJLFVXM" ("\TJJLFVXM")
+Change component parameters: Designator = "R84" ("R84"); Footprint = "Vishay_CRCW0805-e3_IPC_A"; UniqueID = "\CEXGPMIB" ("\CEXGPMIB")
+Change component parameters: Designator = "R103" ("R103"); Footprint = "Vishay_CRCW0805-e3_IPC_A"; UniqueID = "\MHJBPOFA" ("\MHJBPOFA")
+Change component parameters: Designator = "R104" ("R104"); Footprint = "Vishay_CRCW0805-e3_IPC_A"; UniqueID = "\UAKRVXXF" ("\UAKRVXXF")
+Change component parameters: Designator = "R105" ("R105"); Footprint = "Vishay_CRCW0805-e3_IPC_A"; UniqueID = "\ISKCOKZU" ("\ISKCOKZU")
+Change component parameters: Designator = "R106" ("R106"); Footprint = "Vishay_CRCW0805-e3_IPC_A"; UniqueID = "\VZKXRYGW" ("\VZKXRYGW")
+Change component parameters: Designator = "R12" ("R12"); Footprint = "FP-CRCW0805-e3-IPC_A"; UniqueID = "\CLCHHJXX" ("\CLCHHJXX")
+Change component parameters: Designator = "R13" ("R13"); Footprint = "FP-CRCW0805-e3-IPC_A"; UniqueID = "\JEHRCGCK" ("\JEHRCGCK")
+Change component parameters: Designator = "R17" ("R17"); Footprint = "FP-CRCW0805-e3-IPC_A"; UniqueID = "\VVXYMRSL" ("\VVXYMRSL")
+Change component parameters: Designator = "R18" ("R18"); Footprint = "FP-CRCW0805-e3-IPC_A"; UniqueID = "\ZDGYUEEY" ("\ZDGYUEEY")
+Change component parameters: Designator = "R23" ("R23"); Footprint = "FP-CRCW0805-e3-IPC_A"; UniqueID = "\CYZIUCBT" ("\CYZIUCBT")
+Change component parameters: Designator = "R24" ("R24"); Footprint = "FP-CRCW0805-e3-IPC_A"; UniqueID = "\URAXYVXC" ("\URAXYVXC")
+Change component parameters: Designator = "R37" ("R37"); Footprint = "FP-CRCW0805-e3-IPC_A"; UniqueID = "\VDYRGLBO" ("\VDYRGLBO")
+Change component parameters: Designator = "R40" ("R40"); Footprint = "FP-CRCW0805-e3-IPC_A"; UniqueID = "\QZXJHWJG" ("\QZXJHWJG")
+Change component parameters: Designator = "R46" ("R46"); Footprint = "FP-CRCW0805-e3-IPC_A"; UniqueID = "\LIPKFFPQ" ("\LIPKFFPQ")
+Change component parameters: Designator = "R47" ("R47"); Footprint = "FP-CRCW0805-e3-IPC_A"; UniqueID = "\CFCOHAPR" ("\CFCOHAPR")
+Change component parameters: Designator = "R49" ("R49"); Footprint = "FP-CRCW0805-e3-IPC_A"; UniqueID = "\FLLRBDVC" ("\FLLRBDVC")
+Change component parameters: Designator = "R50" ("R50"); Footprint = "FP-CRCW0805-e3-IPC_A"; UniqueID = "\YMSXWRVU" ("\YMSXWRVU")
+Change component parameters: Designator = "R79" ("R79"); Footprint = "FP-CRCW0805-e3-IPC_A"; UniqueID = "\XGSWVODO" ("\XGSWVODO")
+Change component parameters: Designator = "R80" ("R80"); Footprint = "FP-CRCW0805-e3-IPC_A"; UniqueID = "\WGGZWISJ" ("\WGGZWISJ")
+Change component parameters: Designator = "R81" ("R81"); Footprint = "FP-CRCW0805-e3-IPC_A"; UniqueID = "\XBIBPZJI" ("\XBIBPZJI")
+Change component parameters: Designator = "R82" ("R82"); Footprint = "FP-CRCW0805-e3-IPC_A"; UniqueID = "\XKQWAXAX" ("\XKQWAXAX")
+Change component parameters: Designator = "R98" ("R98"); Footprint = "FP-CRCW0805-e3-IPC_A"; UniqueID = "\SELOTCZF" ("\SELOTCZF")
+Change component parameters: Designator = "R116" ("R116"); Footprint = "FP-CRCW0805-e3-IPC_A"; UniqueID = "\PXGRSRLM" ("\PXGRSRLM")
+Change component parameters: Designator = "R117" ("R117"); Footprint = "FP-CRCW0805-e3-IPC_A"; UniqueID = "\SKMLYBKD" ("\SKMLYBKD")
+Change component parameters: Designator = "R118" ("R118"); Footprint = "FP-CRCW0805-e3-IPC_A"; UniqueID = "\WSLSROME" ("\WSLSROME")
+Change component parameters: Designator = "R127" ("R127"); Footprint = "FP-CRCW0805-e3-IPC_A"; UniqueID = "\LMWQJAQL" ("\LMWQJAQL")
+Change component parameters: Designator = "R128" ("R128"); Footprint = "FP-CRCW0805-e3-IPC_A"; UniqueID = "\KZIQANCL" ("\KZIQANCL")
+Change component parameters: Designator = "R129" ("R129"); Footprint = "FP-CRCW0805-e3-IPC_A"; UniqueID = "\YMVBIZFR" ("\YMVBIZFR")
+Change component parameters: Designator = "R130" ("R130"); Footprint = "FP-CRCW0805-e3-IPC_A"; UniqueID = "\FNWAEBNG" ("\FNWAEBNG")
+Change component parameters: Designator = "R131" ("R131"); Footprint = "FP-CRCW0805-e3-IPC_A"; UniqueID = "\CJNMRJWA" ("\CJNMRJWA")
+Change component parameters: Designator = "R132" ("R132"); Footprint = "FP-CRCW0805-e3-IPC_A"; UniqueID = "\ZJXWAPBQ" ("\ZJXWAPBQ")
+Change component parameters: Designator = "R133" ("R133"); Footprint = "FP-CRCW0805-e3-IPC_A"; UniqueID = "\GFCUQHQN" ("\GFCUQHQN")
+Change component parameters: Designator = "R134" ("R134"); Footprint = "FP-CRCW0805-e3-IPC_A"; UniqueID = "\XSHCUBDS" ("\XSHCUBDS")
+Change component parameters: Designator = "R135" ("R135"); Footprint = "FP-CRCW0805-e3-IPC_A"; UniqueID = "\KSBZUDXR" ("\KSBZUDXR")
+Change component parameters: Designator = "R136" ("R136"); Footprint = "FP-CRCW0805-e3-IPC_A"; UniqueID = "\NSZIQZDK" ("\NSZIQZDK")
+Change component parameters: Designator = "R137" ("R137"); Footprint = "FP-CRCW0805-e3-IPC_A"; UniqueID = "\UOACAPKK" ("\UOACAPKK")
+Change component parameters: Designator = "R138" ("R138"); Footprint = "FP-CRCW0805-e3-IPC_A"; UniqueID = "\EVNUUHNW" ("\EVNUUHNW")
+Change component parameters: Designator = "R139" ("R139"); Footprint = "FP-CRCW0805-e3-IPC_A"; UniqueID = "\TDIRUKKP" ("\TDIRUKKP")
+Change component parameters: Designator = "R140" ("R140"); Footprint = "FP-CRCW0805-e3-IPC_A"; UniqueID = "\QKBUEOUP" ("\QKBUEOUP")
+Change component parameters: Designator = "R141" ("R141"); Footprint = "FP-CRCW0805-e3-IPC_A"; UniqueID = "\ZGKERXWC" ("\ZGKERXWC")
+Change component parameters: Designator = "R142" ("R142"); Footprint = "FP-CRCW0805-e3-IPC_A"; UniqueID = "\IWXJUBGH" ("\IWXJUBGH")
+Added Pin To Net: NetName=NetP8_2 Pin=R85-2
+Added Pin To Net: NetName=NetP9_2 Pin=R86-2
+Added Pin To Net: NetName=NetP10_2 Pin=R97-2
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=U4-44
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetU4_7 Pin=U4-7
+Added Net: Name=NetU4_7
+Added Room: Name=STEP_DRIVER_V3.0
