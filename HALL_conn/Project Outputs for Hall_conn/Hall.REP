@@ -1,0 +1,298 @@
+*************************************************************
+FileName = Hall.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : Hall_Copper_Signal_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Hall_Copper_Signal_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D20
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : Hall_Pads_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : Hall_Pads_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Hall_Soldermask_Bot.gbr
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D24
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Hall_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Hall_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Hall_Soldermask_Top.gbr
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D24
+    D25
+    D26
+    D33
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : Hall_Mechanical_2.gbr
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D29
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Top Designator
+      File : Hall_Mechanical_14.gbr
+
+    Adding Layer      : Top Designator
+
+
+Used DCodes :
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : Hall_Mechanical_17.gbr
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 10
+      File : Hall_Mechanical_10.gbr
+
+    Adding Layer      : Mechanical 10
+
+
+Used DCodes :
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : Hall_Mechanical_1.gbr
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 3
+      File : Hall_Mechanical_3.gbr
+
+    Adding Layer      : Mechanical 3
+
+
+Used DCodes :
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Top Component Outline
+      File : Hall_Mechanical_7.gbr
+
+    Adding Layer      : Top Component Outline
+
+
+Used DCodes :
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : Hall_Mechanical_15.gbr
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D29
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : Hall_Mechanical_13.gbr
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : Hall_Mechanical_9.gbr
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D29
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : Hall_Mechanical_5.gbr
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 12
+      File : Hall_Mechanical_12.gbr
+
+    Adding Layer      : Mechanical 12
+
+
+Used DCodes :
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : Hall_Profile.gbr
+
+
+Used DCodes :
+    D38
+*************************************************************
+

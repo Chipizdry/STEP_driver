@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Hall_conn.PrjPcb]
+   Generated File[Hall.TXT]
+   Generated File[Hall.LDP]
+   Generated File[Hall.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 13:57:56 On 22.03.2024

@@ -1,0 +1,5 @@
+Added Component: Designator=U1(U1881)
+Added Pin To Net: NetName=NetC1_1 Pin=U1-1
+Added Pin To Net: NetName=NetC1_2 Pin=U1-2
+Added Pin To Net: NetName=NetP1_2 Pin=U1-3
+Added Member To Class: ClassName=Hall Member=Component U1 U1881_Hall
